@@ -1,7 +1,7 @@
 ---
 applications:
 - name: e2e-workshop
-  random-route: true
+  random_route: true
   memory: 256M
   disk_quota: 512M
   buildpack: nodejs_buildpack
